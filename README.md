@@ -150,37 +150,6 @@ Organizations need clear visibility into employee demographics and compensation 
 
 
 
-\## 📊 Dashboard Preview
-
-
-
-\### Dashboard Overview
-
-
-
-<img width="100%" alt="Dashboard Overview" src="Images/Dashboard\_Overview.png">
-
-
-
-\### Compensation Analysis
-
-
-
-<img width="100%" alt="Compensation Analysis" src="Images/Compensation\_Analysis.png">
-
-
-
-\### Workforce Demographics
-
-
-
-<img width="100%" alt="Workforce Demographics" src="Images/Workforce\_Demographics.png">
-
-
-
-\---
-
-
 
 \## 💼 Business Impact
 
